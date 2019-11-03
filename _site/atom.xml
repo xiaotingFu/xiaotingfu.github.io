@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Xiaoting (Sisi) Fu.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-11-03T11:47:17-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Xiaoting Fu</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Story Generator React</title>
+   <link href="http://localhost:4000/development/2019/11/03/story-generator-react.html"/>
+   <updated>2019-11-03T06:15:00-08:00</updated>
+   <id>http://localhost:4000/development/2019/11/03/story-generator-react</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>University Clinic AngularJS</title>
+   <link href="http://localhost:4000/development/2016/02/20/university-clinic.html"/>
+   <updated>2016-02-20T07:56:00-08:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/university-clinic</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Older Adult Health App Android</title>
+   <link href="http://localhost:4000/development/android/2016/02/20/ohealth-android.html"/>
+   <updated>2016-02-20T07:56:00-08:00</updated>
+   <id>http://localhost:4000/development/android/2016/02/20/ohealth-android</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

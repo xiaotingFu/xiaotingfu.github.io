@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I'm Xiaoting (Sisi) Fu.</title>
+    <description>M.sc of Computer Science from North Carolina State University, actively seeking full-time SDE opportunities, no need for sponsorship.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Nov 2019 11:47:17 -0800</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2019 11:47:17 -0800</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Story Generator React</title>
+        <description>
+</description>
+        <pubDate>Sun, 03 Nov 2019 06:15:00 -0800</pubDate>
+        <link>http://localhost:4000/development/2019/11/03/story-generator-react.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2019/11/03/story-generator-react.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>Python</category>
+        
+        <category>React</category>
+        
+        <category>Node.js</category>
+        
+        <category>Google-Cloud</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>University Clinic AngularJS</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 07:56:00 -0800</pubDate>
+        <link>http://localhost:4000/development/2016/02/20/university-clinic.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/university-clinic.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>PHP</category>
+        
+        <category>MySQL</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Older Adult Health App Android</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 07:56:00 -0800</pubDate>
+        <link>http://localhost:4000/development/android/2016/02/20/ohealth-android.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/android/2016/02/20/ohealth-android.html</guid>
+        
+        <category>Java</category>
+        
+        <category>Android</category>
+        
+        <category>Google-Material-Design</category>
+        
+        <category>Lifelogging</category>
+        
+        
+        <category>development</category>
+        
+        <category>android</category>
+        
+      </item>
+    
+  </channel>
+</rss>
