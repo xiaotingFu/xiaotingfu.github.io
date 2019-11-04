@@ -14,11 +14,12 @@
             <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
             {% endif %}
 
-            <div class="break"></div>
-            <div class="break"></div>
-
+            
+            <div class="break"></div>  
             {% for post in site.posts %}
+
               <div class="wow fadeIn">
+              <p>Here is just a test</p>
               {% if post.position == "left" %}
                 {% include content-left.html %}
               {% endif %}
